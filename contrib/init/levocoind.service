@@ -1,0 +1,22 @@
+[Unit]
+Description=Levocoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=levocoincore
+Group=levocoincore
+
+Type=forking
+PIDFile=/var/lib/levocoind/levocoind.pid
+ExecStart=/usr/bin/levocoind -daemon -pid=/var/lib/levocoind/levocoind.pid \
+-conf=/etc/levocoincore/levocoin.conf -datadir=/var/lib/levocoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

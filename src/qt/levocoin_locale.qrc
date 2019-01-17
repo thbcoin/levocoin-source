@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/levocoin_bg.qm</file>
+        <file alias="de">locale/levocoin_de.qm</file>
+        <file alias="en">locale/levocoin_en.qm</file>
+        <file alias="es">locale/levocoin_es.qm</file>
+        <file alias="fi">locale/levocoin_fi.qm</file>
+        <file alias="fr">locale/levocoin_fr.qm</file>
+        <file alias="it">locale/levocoin_it.qm</file>
+        <file alias="ja">locale/levocoin_ja.qm</file>
+        <file alias="nl">locale/levocoin_nl.qm</file>
+        <file alias="pl">locale/levocoin_pl.qm</file>
+        <file alias="pt">locale/levocoin_pt.qm</file>
+        <file alias="ru">locale/levocoin_ru.qm</file>
+        <file alias="sk">locale/levocoin_sk.qm</file>
+        <file alias="sv">locale/levocoin_sv.qm</file>
+        <file alias="vi">locale/levocoin_vi.qm</file>
+        <file alias="zh_CN">locale/levocoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/levocoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Levocoin Core
+Comment=Levocoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Levocoin peer-to-peer Netzwerk
+Comment[fr]=Levocoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Levocoin, eşten eşe kriptografik sanal para birimi
+Exec=levocoin-qt %u
+Terminal=false
+Type=Application
+Icon=levocoin128
+MimeType=x-scheme-handler/levocoin;
+Categories=Office;Finance;
