@@ -3,7 +3,7 @@ Levocoin Core staging tree 0.12.3
 
 `master:` [![Build Status](https://travis-ci.org/levocoinpay/levocoin.svg?branch=master)](https://travis-ci.org/levocoinpay/levocoin) `develop:` [![Build Status](https://travis-ci.org/levocoinpay/levocoin.svg?branch=develop)](https://travis-ci.org/levocoinpay/levocoin/branches)
 
-https://www.levocoin.org
+https://www.levocoin.io
 
 
 What is Levocoin?
@@ -16,7 +16,7 @@ are carried out collectively by the network. Levocoin Core is the name of the op
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Levocoin Core software, see https://www.levocoin.org/get-levocoin/.
+the Levocoin Core software, see https://www.levocoin.io.
 
 
 License
@@ -74,4 +74,4 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-Translators should also follow the [forum](https://www.levocoin.org/forum/topic/levocoin-worldwide-collaboration.88/).
+Translators should also follow the [forum](https://bitcointalk.org/index.php?topic=5099476.0).
